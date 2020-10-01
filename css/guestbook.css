@@ -1,0 +1,32 @@
+.labels {
+    width: 25%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 40%;
+}
+
+.colon {
+    width: 3%;
+}
+
+textarea {
+    resize: none;
+    width: 12rem;
+}
+
+#message {
+    height: 4rem;
+}
+
+#address {
+    height: 3rem;
+}
+
+#btn-submit {
+    margin-left: 80px;
+}
